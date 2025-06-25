@@ -1,0 +1,10 @@
+Module 8: Reinforcement Learning
+Lab practices 8.1
+Title: Creating a Simple Game Environment for Reinforcement Learning
+Experimentation
+Problem Statement:
+Reinforcement Learning (RL) requires a simulated environment where an agent can take
+actions, receive rewards, and learn from interactions. This project builds a custom
+game environment using OpenAI Gym and Pygame, where an agent moves on a 5x5 grid
+to reach a goal while receiving rewards. The environment is suitable for training RL
+models using Q-learning, Deep Q-Networks (DQN), and other RL techniques. 
